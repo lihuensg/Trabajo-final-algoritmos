@@ -1,0 +1,229 @@
+rubro;subrubro-marca;subdetalle;importe
+Almacenamiento;pendrive;4 GB KINGSTON DT100/DT101/DT110/DT120/DTIG2/C10;5
+Almacenamiento;pendrive;8 GB KINGSTON DT100/DT101/DT110/DT120/DTIG2/C10;7
+Almacenamiento;pendrive;8 GB BOCA JUNIORS - PALERMO (SuperTalent);13
+Almacenamiento;pendrive;8 GB RIVER PLATE - ORTEGA (SuperTalent);8
+Almacenamiento;pendrive;8 GB ROSARIO CENTRAL - COUDET (SuperTalent);8
+Almacenamiento;pendrive;8 GB NOB - MARADONA (SuperTalent);8
+Almacenamiento;pendrive;16 GB KINGSTON DTSE8;13
+Almacenamiento;pendrive;32 GB KINGSTON DT100/DTIG2;19
+Almacenamiento;sd;MEMORIA SD 16 GB HC UHS-I C10 40MB SONY;26
+Almacenamiento;sd;MEMORIA SD 16 GB HC C10 30MB 200X SANDISK;20
+Almacenamiento;sd;MEMORIA SD 16 GB HC C10 HD VIDEO 30MB KINGSTON;17
+Almacenamiento;sd;MEMORIA SD 16 GB HC UHS-I C10 600X 90 MB PANASONIC;46
+Almacenamiento;sd;MEMORIA SD 16 GB HC C10 600X 90MB SANDISK;30
+Almacenamiento;sd;MEMORIA SD 16 GB HC UHS-I C10 600X 90 MB PNY;30
+Almacenamiento;sd;MEMORIA SD 32 GB HC UHS-I C10 600X 90MB PANASONIC;77
+Almacenamiento;sd;MEMORIA SD 32 GB HC C10 633X 95MB LEXAR;45
+Almacenamiento;sd;MEMORIA SD 32 GB HC UHS-I C10 40MB SONY;38
+Almacenamiento;sd;MEMORIA SD 32 GB HC C10 30MB 200X SANDISK;32
+Almacenamiento;sd;MEMORIA SD 32 GB HC C10 48MB 320X SANDISK;22
+Almacenamiento;sd;MEMORIA SD 32 GB HC UHS-I 60MB 400X SANDISK EXTREM;50
+Almacenamiento;sd;MEMORIA SD 32 GB HC UHS-I 90MB 600X SANDISK EXTREM;46
+Almacenamiento;sd;MEMORIA SD 32 GB HC UHS-I 95MB 633X SANDISK EXTREM;52
+Almacenamiento;sd;MEMORIA SD 32 GB HC C10 HD VIDEO 30MB KINGSTON;34
+Almacenamiento;sd;MEMORIA SD 32 GB HC C10 HD VIDEO 45MB KINGSTON;21
+Almacenamiento;sd;MEMORIA SD 64 GB HC C10 HD VIDEO 45MB KINGSTON;36
+Almacenamiento;sd;MEMORIA SD 64 GB XC UHS-I C10 300X 45MB LEXAR;75
+Almacenamiento;sd;MEMORIA SD 64 GB XC UHS-I C10 40MB SONY;65
+Almacenamiento;sd;MEMORIA SD 64 GB XC UHS-I C10 400X 60MB LEXAR;89
+Almacenamiento;sd;MEMORIA SD 64 GB XC UHS-I 60MB 400X SANDISK EXTREM;99
+Almacenamiento;sd;MEMORIA SD 64 GB XC UHS-I 95MB 633X SANDISK EXTREM;95
+Almacenamiento;sd;MEMORIA SD 128 GB HC C10 HD VIDEO 45MB KINGSTON;69
+Almacenamiento;sd;MEMORIA SD 8 GB HC UHS-I C10 40MB SONY;8
+Almacenamiento;sd;MEMORIA SD 8 GB HC C10 30MB 200X SANDISK;13
+Almacenamiento;sd;MEMORIA SD 8 GB HC C10 HD VIDEO 30MB KINGSTON;12
+Almacenamiento;micro sd;4 GB KINGSTON c/ADAPTADOR SD HC C.4;7
+Almacenamiento;micro sd;8 GB KINGSTON c/ADAPTADOR SD HC C.4;6
+Almacenamiento;micro sd;8 GB KINGSTON c/ADAPTADOR SD HC C.10;9
+Almacenamiento;micro sd;8 GB KINGSTON c/ADAPTADOR SD HC C.10 45 MB;7
+Almacenamiento;micro sd;8 GB SANDISK c/ADAPTADOR SD HC C.10 200X 30 MB;11
+Almacenamiento;micro sd;8 GB SANDISK c/ADAPTADOR SD HC C.10 320X 48 MB;8
+Almacenamiento;micro sd;16 GB KINGSTON c/ADAPTADOR SD HC C.4;14
+Almacenamiento;micro sd;16 GB SANDISK c/ ADAPTADOR SD HC C.4;15
+Almacenamiento;micro sd;16 GB SANDISK c/ ADAPTADOR SD HC C.10 200X 30 MB;17
+Almacenamiento;micro sd;16 GB SANDISK c/ADAPTADOR SD HC C.10 320X 48 MB;15
+Almacenamiento;micro sd;16 GB SANDISK c/ADAPTADOR SD HC C.10 533X 80 MB;19
+Almacenamiento;micro sd;16 GB KINGSTON c/ADAPTADOR SD HC C.10;21
+Almacenamiento;micro sd;16 GB KINGSTON c/ADAPTADOR SD HC C.10 45 MB;14
+Almacenamiento;micro sd;32 GB KINGSTON c/ADAPTADOR SD HC C.10;19
+Almacenamiento;micro sd;32 GB KINGSTON c/ADAPTADOR SD HC C.10 45 MB;21
+Almacenamiento;micro sd;32 GB SANDISK c/ADAPTADOR SD HC C.10 200X 30 MB;31
+Almacenamiento;micro sd;32 GB SANDISK c/ADAPTADOR SD HC C.10 320X 48 MB;22
+Almacenamiento;micro sd;32 GB SANDISK c/ADAPTADOR SD HC C.10 400X 60 MB;45
+Almacenamiento;micro sd;32 GB SANDISK c/ADAPTADOR SD HC C.10 533X 80 MB;26
+Almacenamiento;micro sd;32 GB SANDISK c/ADAPTADOR SD HC C.10 633X 95 MB;63
+Almacenamiento;micro sd;64 GB SANDISK c/ADAPTADOR SD XC C.10 400X 60 MB EX;75
+Almacenamiento;micro sd;64 GB SANDISK c/ADAPTADOR SD HC C.10 533X 80 MB;41
+Almacenamiento;micro sd;64 GB SANDISK c/ADAPTADOR SD XC C.10 633X 95 MB EX;95
+Almacenamiento;micro sd;64 GB KINGSTON c/ADAPTADOR SD XC C.10;55
+Almacenamiento;micro sd;128 GB SANDISK c/ADAPTADOR SD HC C.10 533X 80 MB;88
+Almacenamiento;micro sony;MEMORIA STICK PRO-HG DUO 8 GB 50MB HX SONY MGATE;29
+Almacenamiento;micro sony;MEMORIA STICK PRO-HG DUO 8 GB SANDISK MGATE;27
+Almacenamiento;micro sony;MEMORIA STICK PRO-HG DUO 16 GB LEXAR PLATINUM II M;36
+Almacenamiento;micro sony;MEMORIA STICK PRO-HG DUO 16 GB 50MB HX SONY MGATE;59
+apple;ipad;Ipad MINI Retina 4 128 GB + 4G;890
+apple;ipad;Ipad AIR 2 16 GB WiFi;695
+apple;ipad;Ipad AIR 2 16 GB WiFi + 4G;765
+apple;ipad;Ipad AIR 2 64 GB WiFi;765
+apple;ipad;Ipad AIR 2 64GB WiFi + 4G;885
+apple;ipad;Ipad AIR 2 128GB WiFi ;825
+apple;ipod;Nano 16 GB 7› generacion;185
+apple;ipod;Shuffle 2 GB 4› generacion;82
+camaras;canon;G16 ( 12.1 MP CMOS/ 5x/ 3 LCD/Wide-angle 28 mm/ F;440
+camaras;canon;A3400 (16 MP/5x/3 LCD Touch/Estab. Op./HD Video/W;116
+camaras;canon;A2500 (16 MP/5x/2.7 LCD/Estab. Op./HD Video/Wide-;101
+camaras;canon;SX40 HS (12.1MP/35X/2.7 LCD/ Face D/ Estab. Op./ ;380
+camaras;canon;SX50 HS (12.1MP Cmos/50X/2.8 LCD/Face D/Estab. Op;410
+camaras;canon;SX60 HS (16.1MP Cmos/65X/3 LCD/Face D/Estab. Op/W;470
+camaras;canon;SX160 (16.1 MP/ 16x/3 LCD/Face D/Wide-angle28mm/A;155
+camaras;canon;SX170 (16.1 MP/ 16x/3 LCD/Face D/Wide-angle28mm/H;190
+camaras;canon;SX270 HS 12.1 MP CMOS/20x/3 LCD/Face D/Estab. Op.;270
+camaras;canon;SX280 HS 12.1 MP CMOS/20x/3 LCD/Face D/Estab. Op.;285
+camaras;canon;SX400 is (16 MP/30x/ 3 LCD/Face D/Estab. Op/Wide-;175
+camaras;canon;SX410 is (20 MP/40x/ 3 LCD/Face D/Estab. Op/Wide-;225
+camaras;canon;SX500 is (16 MP/30x/ 3 LCD/Face D/Estab. Op/Wide-;300
+camaras;canon;SX510 HS (12.1 MP CMOS/30x/ 3 LCD/Face D/Estab. O;300
+camaras;canon;SX520 HS (16 MP CMOS/42x/ 3 LCD/Face D/Estab. Op/;275
+camaras;canon;SX530 HS (16 MP CMOS/50x/ 3 LCD/Face D/Estab. Op/;300
+camaras;canon;SX600 HS (16 MP CMOS/18x/ 3 LCD/Face D/Estab. Op/;195
+camaras;canon;SX610 HS (20.2 MP CMOS/18x/ 3 LCD/Face D/Estab. O;215
+camaras;canon;SX700 HS (16.1 MP CMOS/30x/ 3 LCD/Face D/Estab. O;305
+camaras;canon;SX710 HS (20.3 MP CMOS/30x/ 3 LCD/Face D/Estab. O;310
+camaras;canon;EOS REBEL T3i KIT 18-55 (18 MP CMOS/3 LCD/ISO 640;595
+camaras;canon;EOS REBEL T3i KIT 18-135 (18 MP CMOS/3 LCD/ISO 64;820
+camaras;canon;EOS REBEL T3 KIT 18-55 (12.2 MP CMOS/2.7 LCD/ISO ;410
+camaras;canon;EOS REBEL SL1 KIT 18-55 (18 MP CMOS/3 LCD/ISO 128;570
+camaras;canon;EOS REBEL T5i KIT 18-55 (18 MP CMOS/3 LCD Touch/I;830
+camaras;canon;EOS REBEL T5i KIT 18-135 (18 MP CMOS/3 LCD Touch/;940
+camaras;canon;EOS REBEL T5 KIT 18-55 (18 MP CMOS/3 LCD/ISO 6400;575
+camaras;canon;EOS REBEL T6i KIT 18-55 (24.2 MP CMOS/3 LCD Touch;870
+camaras;canon;EOS REBEL T6i KIT 18-135 (24.2 MP CMOS/3 LCD Touc;1110
+camaras;canon;EOS REBEL T6s KIT 18-135 (24.2 MP CMOS/3 LCD Touc;1170
+camaras;canon;EOS REBEL T6 KIT 18-55 (18 MP CMOS/3 LCD/ISO 6400;730
+camaras;canon;EOS 7D BODY (18 MP CMOS/3 LCD/ISO 6400/FULL HD Mo;1295
+camaras;canon;EOS 7D KIT 18-135 (18 MP CMOS/3 LCD/ISO 6400/FULL;1750
+camaras;canon;EOS 6D BODY (WG);2090
+camaras;canon;EOS 6D (WG) KIT 24-105MM F/4L IS USM;2860
+camaras;canon;EOS 5D MARK III BODY;3680
+camaras;canon;EOS 5D MARK III KIT 24-105MM F/4L IS USM;4450
+camaras;canon;EOS 60D KIT 18-135 (18 MP CMOS/3 LCD/ISO 6400/HDM;1035
+camaras;canon;EOS 60D KIT 18-200 (18 MP CMOS/3 LCD/ISO 6400/HDM;1180
+camaras;canon;EOS 70D (W) KIT 18-55 (20.2 MP/3.2 Touch LCD/ISO ;1400
+camaras;canon;EOS 70D (W) KIT 18-135 (20.2 MP/3.2 Touch LCD/ISO;1440
+flash;canon;FLASH CANON 270 EX;185
+flash;canon;FLASH CANON 320 EX;255
+flash;canon;FLASH CANON 430 EXII ;280
+flash;canon;FLASH CANON 600 EX;537
+flash;canon;FLASH CANON 600 EX-RT;525
+flash;canon;FLASH NISSIN (CANON) Di600;185
+flash;canon;FLASH YONGNUO (CANON) YN-14EX MACRO RING;160
+flash;canon;FLASH YONGNUO (CANON) YN468-II;95
+flash;canon;FLASH YONGNUO (CANON) YN565EX II;155
+flash;canon;FLASH YONGNUO (CANON) YN568EX II;175
+flash;canon;FLASH YONGNUO (CANON) YN600EX-RT;185
+flash;canon;FLASH YONGNUO YN560 IV;135
+flash;canon;FLASH YONGNUO YN560 III;115
+flash;canon;FLASH YONGNUO YN460 II;85
+flash;canon;FLASH APUTURE MG-68TL (CANON);266
+flash;canon;KIT DE RADIO DISPARADOR YONGNUO RF603 C II/ C1;55
+flash;canon;KIT DE RADIO DISPARADOR YONGNUO RF603 C II/ C3;55
+flash;canon;KIT DE RADIO DISPARADOR YONGNUO RF605 C/C1-C3 ;73
+lente;canon;LENTE CANON EF 50 mm f/1.8 II;140
+lente;canon;LENTE CANON EF 50 mm f/1.8 STM;200
+lente;canon;LENTE CANON EF 50 mm f/1.4 USM;390
+lente;canon;LENTE CANON EF-S 18-200 F/3.5-5.6 IS;775
+lente;canon;LENTE CANON EF-S 55-250 mm f/4-5.6 IS;180
+lente;canon;LENTE CANON EF-S 55-250 mm f/4-5.6 IS STM;230
+lente;canon;LENTE CANON EF 70-300 mm f/4-5.6 IS USM;505
+lente;canon;LENTE CANON EF 75-300 mm f/4-5.6 III ;185
+lente;canon;LENTE CANON EF 75-300 mm f/4-5.6 III USM;250
+lente;canon;LENTE CANON EF 24-70MM F/2.8L II USM;2470
+lente;canon;LENTE CANON 16-35 MM 2.8 USM;1905
+lente;canon;LENTE CANON 17-55 MM 2.8 IS USM;1065
+lente;canon;LENTE CANON EF 50mm f/1.2L USM;1885
+lente;canon;LENTE CANON EF 28mm f/2.8 USM;570
+lente;canon;LENTE CANON EF 100mm f/2.8 Macro USM;2010
+lente;canon;LENTE SIGMA 70-300 F4-5.6 DG OS;320
+camaras;nikon;L28 (20 MP/5x/3 LCD/ISO 1600/VR/HD 720/AA);93
+camaras;nikon;L320 (16.1 MP/26x/3 LCD/ISO 1600/VR/HD 720p/AA);175
+camaras;nikon;L330 (20.2 MP/26x/3 LCD/ISO 1600/VR/HD 720p/AA);255
+camaras;nikon;L340 (20.2 MP/28x/3 LCD/ISO 1600/VR/HD 720p/AA);180
+camaras;nikon;L620 (18.1 MP/14x/3 LCD/ISO 3200/VR/Full HD 1080p;175
+camaras;nikon;L610 (16 MP/14x/3 LCD/ISO 3200/VR/Full HD 1080p/3;165
+camaras;nikon;L810 (16.1 MP/26x/3 LCD/ISO 1600/VR/ HD Movie/HDM;240
+camaras;nikon;L820 (16.1 MP Cmos/30x/ 3 LCD/ISO 3200/VR/Full HD;240
+camaras;nikon;L830 (16MP Cmos/34x/ 3 LCD/ISO 3200/VR/Full HD 10;230
+camaras;nikon;L840 (16MP Cmos/38x/ 3 LCD/ISO 6400/VR/Full HD 10;265
+camaras;nikon;AW120 SUMERGIBLE 18 mts (16 MP Cmos/5x/3 LCD/ISO;305
+camaras;nikon;S2700 (16 MP/6x Wide/2.7 LCD/ ISO 3200/Face D/HD;92
+camaras;nikon;S2800 (20.1 MP/5x Wide/2.7 LCD/ ISO 3200/Face D/H;110
+camaras;nikon;S2900 (20.1 MP/5x Wide/2.7 LCD/ ISO 3200/Face D/H;105
+camaras;nikon;S3600 (20.1 MP/8x Wide/2.7 LCD/ ISO 3200/Face D/H;120
+camaras;nikon;P340 (12.2 MP CMOS/ 5x/ 3 LCD/ Full HD 1080/HDMI/;320
+camaras;nikon;P520 (18.1 MP/ 42x Wide/ 3.2 LCD/ ISO 6400/ VR Es;425
+camaras;nikon;P530 (16.1 MP/ 42x Wide/ 3 LCD/ ISO 6400/ VR Esta;360
+camaras;nikon;P600 (16.1 MP/ 60x Wide/ 3 LCD/ ISO 12800/ VR Est;420
+camaras;nikon;P610 (16 MP/ 60x Wide/ 3 LCD/ ISO 12800/ VR Estab;425
+camaras;nikon;P900 (16 MP Cmos/ 83x Wide/ 3 LCD/ ISO 6400/ VR E;695
+camaras;nikon;D90 KIT 18-105 VR (12.3 MP/3 LCD/Mic IN);895
+camaras;nikon;D3100 KIT 18-55 (14.2 MP/3 LCD/Full HD 1080/HDMI);540
+camaras;nikon;D3200 KIT 18-55 (24.2 MP/3 LCD/ Full HD 1080/HDMI;480
+camaras;nikon;D3200 KIT 18-55 + 55-200 (24.2 MP/3 LCD/ Full HD;555
+camaras;nikon;D3300 KIT 18-55 (24.2 MP/3 LCD/ Full HD 1080/HDMI;590
+camaras;nikon;D5100 KIT 18-55 (16.2 MP CMOS/3 LCD/Full HD 1080/;555
+camaras;nikon;D5200 KIT 18-55 ( 24.1 MP CMOS/3 LCD/Full HD 1080;600
+camaras;nikon;D5200 KIT 18-105 ( 24.1 MP CMOS/3 LCD/Full HD 108;775
+camaras;nikon;D5300 KIT 18-55 ( 24.2 MP CMOS/3.2 LCD/Full HD 10;845
+camaras;nikon;D5300 KIT 18-140 ( 24.2 MP CMOS/3.2 LCD/Full HD 1;880
+camaras;nikon;D5500 KIT 18-55 ( 24.2 MP CMOS/3.2 LCD/Full HD 10;1040
+camaras;nikon;D7000 BODY (16.2 MP/3 LCD/Full 1080 HD Movie/HDMI;1455
+camaras;nikon;D7000 KIT 18-55 (16.2 MP/3 LCD/Full 1080 HD Movie;750
+camaras;nikon;D7000 KIT 18-105 (16.2 MP/3 LCD/Full 1080 HD Movi;1030
+camaras;nikon;D7100 BODY (24.1 MP CMOS/3 LCD/Full 1080 HD Movie;925
+camaras;nikon;D7100 KIT 18-105 (24.1 MP CMOS/3 LCD/Full 1080 HD;1050
+camaras;nikon;D7100 KIT 18-140 (24.1 MP CMOS/3 LCD/Full 1080 HD;1190
+camaras;nikon;D7200 KIT 18-140 (24.2 MP CMOS/3.2 LCD/Full 1080 ;1480
+camaras;nikon;D7200 KIT BODY (24.2 MP CMOS/3.2 LCD/Full 1080 HD;1480
+camaras;nikon;D610 BODY;2220
+camaras;nikon;D800 BODY;2955
+camaras;nikon;D750 BODY;3630
+camaras;nikon;D4 BODY;6375
+camaras;nikon;D4S BODY;7480
+flash;nikon;FLASH NIKON SB300;160
+flash;nikon;FLASH NIKON SB500;285
+flash;nikon;FLASH NIKON SB700;355
+flash;nikon;FLASH NIKON SB910;485
+flash;nikon;FLASH YONGNUO (NIKON) YN468-II;135
+flash;nikon;FLASH YONGNUO (NIKON) YN565EX;155
+flash;nikon;FLASH YONGNUO (NIKON) YN568EX;175
+flash;nikon;FLASH YONGNUO YN560 IV;135
+flash;nikon;FLASH YONGNUO YN560 III;115
+flash;nikon;FLASH YONGNUO YN460 II;85
+flash;nikon;FLASH NISSIN (NIKON) Di600;185
+flash;nikon;KIT DE RADIO DISPARADOR YONGNUO RF603 N II/ N3;55
+flash;nikon;KIT DE RADIO DISPARADOR YONGNUO RF605N/N1-N3;73
+lente;nikon;LENTE NIKON AF-S DX 18-55 f/3.5-5.6G VR II ;170
+lente;nikon;LENTE NIKON AF-S DX 55-200 f/4-5.6G ED VR II;235
+lente;nikon;LENTE NIKON AF-S DX VR 55-200 f/4-5.6G IF-ED;185
+lente;nikon;LENTE NIKON AF-S DX 55-300 F/4.5-5.6G ED VR;365
+lente;nikon;LENTE NIKON AF 70-300 f/4-5.6G ;190
+lente;nikon;LENTE NIKON AF-S VR 70-300 f/4.5-5.6G  IF-ED ;700
+lente;nikon;LENTE NIKON AF-S DX 35 f/1.8G;310
+lente;nikon;LENTE NIKON AF 35MM F/2D;410
+lente;nikon;LENTE NIKON AF-S 50 f/1.8G;310
+lente;nikon;LENTE NIKON AF 50MM F/1.8D;180
+lente;nikon;LENTE NIKON AF-S DX 18-105mm f/3.5-5.6G ED VR;305
+lente;nikon;LENTE NIKON AF-S DX 18-140mm f/3.5-5.6G ED VR;410
+lente;nikon;LENTE NIKON AF 50MM F/1.4D;360
+lente;nikon;LENTE NIKON AF-S 50MM F/1.4G;655
+lente;nikon;LENTE NIKON AF-S DX 18-300MM 3.5-6.3G ED VR;900
+lente;nikon;LENTE NIKON AF-S DX 18-200MM 3.5-6.3G ED VR II;665
+lente;nikon;LENTE NIKON AF-S DX 24-70MM F/2.8G ED;2090
+lente;nikon;LENTE NIKON 14-24 MM 2.8 ED AF;2300
+lente;nikon;LENTE NIKON AF-S DX ZOOM 17-55MM F/2.8G IF-ED;1830
+lente;nikon;LENTE NIKON 70-200 MM 2.8G AFS VR 2 ED;2770
+lente;nikon;LENTE SIGMA 70-300 F4-5.6 DG OS;500
+hd;externo;1 TB Seagate Expansion USB 3.0;90
+hd;sata3;1 TB 64MB BUFFER TOSHIBA;75
+hd;sata3;2 TB 64MB BUFFER TOSHIBA;100

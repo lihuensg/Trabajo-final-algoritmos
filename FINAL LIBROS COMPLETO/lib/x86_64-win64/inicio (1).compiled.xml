@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1325662982"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiB:\utn\Sync\Universidad\Primer año\Segundo cuatrimestre\Algoritmo y estructura de datos\Final\FINAL MK2\lib\x86_64-win64&quot; -FuC:\lazarus\lcl\units\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64 -FuC:\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\lazarus\packager\units\x86_64-win64 &quot;-FuB:\utn\Sync\Universidad\Primer año\Segundo cuatrimestre\Algoritmo y estructura de datos\Final\FINAL MK2\&quot; &quot;-FUB:\utn\Sync\Universidad\Primer año\Segundo cuatrimestre\Algoritmo y estructura de datos\Final\FINAL MK2\lib\x86_64-win64\&quot; &quot;-FEB:\utn\Sync\Universidad\Primer año\Segundo cuatrimestre\Algoritmo y estructura de datos\Final\FINAL MK2\&quot; &quot;-oB:\utn\Sync\Universidad\Primer año\Segundo cuatrimestre\Algoritmo y estructura de datos\Final\FINAL MK2\inicio.exe&quot; -dLCL -dLCLwin32 inicio.lpr"/>
+</CONFIG>
